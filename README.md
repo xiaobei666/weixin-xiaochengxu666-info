@@ -1,6 +1,6 @@
 # weixin-xiaochengxu666-info-小程序开发干货汇总
 
-weixin-xiaochengxu666-info 第一版 是由[OpenDigg](http://www.opendigg.com/)整理并维护的微信小程序开源项目库集合。
+weixin-xiaochengxu666-info 第一初版 是由[OpenDigg]整理的微信小程序开源项目库集合。
 
 小北 二次整理分享，以此声明。
 
@@ -53,7 +53,7 @@ weixin-xiaochengxu666-info 第一版 是由[OpenDigg](http://www.opendigg.com/)�
 
 ## 开发框架 
 
-- [mpvue](https://github.com/wepyjs/wepy) ★6425 - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。vue人士福利
+- [mpvue](https://github.com/Meituan-Dianping/mpvue) ★6425 - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。vue人士福利
 
 - [wepy](https://github.com/wepyjs/wepy) ★1325 - 小程序组件化开发框架 
 - [Labrador](https://github.com/maichong/labrador) ★785 - 微信小程序模块化开发框架 
